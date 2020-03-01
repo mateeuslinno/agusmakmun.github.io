@@ -12,7 +12,6 @@ tagarray: []
 collections:
   project:
     output: true
-    permalink: /project/:path/
 
 social:
     - icon: fa-facebook
